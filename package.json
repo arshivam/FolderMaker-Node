@@ -1,0 +1,15 @@
+{
+  "name": "foldermaker",
+  "version": "1.0.0",
+  "description": "writting a program to organise the files by thier extentsion using node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivam armarkar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
